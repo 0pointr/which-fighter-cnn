@@ -1,0 +1,3 @@
+
+gradio
+fastai==2.7.17

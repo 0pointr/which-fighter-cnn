@@ -1,0 +1,4 @@
+models/convnext-73pct-3+5+3.pkl filter=lfs diff=lfs merge=lfs -text
+models/fighters-resnet50-cp-1-71pct.pkl filter=lfs diff=lfs merge=lfs -text
+models/fighters_single-cat_5+8-epochs.pkl filter=lfs diff=lfs merge=lfs -text
+models/resnet50-cp2-84pct.pkl filter=lfs diff=lfs merge=lfs -text

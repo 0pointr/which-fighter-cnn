@@ -1,3 +1,4 @@
 
 gradio
 fastai==2.7.17
+timm==1.0.15

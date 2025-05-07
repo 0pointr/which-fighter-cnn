@@ -1,4 +1,4 @@
-### A resnet34 network fine tuned to recognize fighter planes
+### A resnet34, resnet50 and a convnext_small network fine tuned to recognize fighter plane types
 
 ## Training Categories
 * F-15 Eagle
@@ -37,9 +37,10 @@
 * Dassault Rafale
 * SEPECAT Jaguar
 * HAL Tejas
+* Su-57
 
-### Trained for 5 frozen + 8 all layer epochs
+### Trained for various epochs
 
-### Validation set accuracy: 70%
+### Average validation set accuracy > 70%
 
 ### Dataset: 50-60 images of each type sourced from the internet
